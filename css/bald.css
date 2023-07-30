@@ -1013,9 +1013,9 @@
   
   .actors {
     border-radius: 50%;
-    height: 315px;
-    width: 315px;
-    margin: 10px 60px;
+    height: 230px;
+    width: 230px;
+    margin: 10px 40px;
   }
   .button-dark {
     justify-content: flex-start;
@@ -1221,8 +1221,11 @@
     color: #fff;
     flex-basis: auto;
     min-height: 500px;
-    padding: 0 60px 50px;
+    padding: 0 60px 50px 90px;
     background-color: #fff;
+    -webkit-box-shadow:inset 0px 0px 0px 20px lightgrey;
+    -moz-box-shadow:inset 0px 0px 0px 20px lightgrey;
+    box-shadow:inset 0px 0px 0px 20px lightgrey;
   }
   .introductionLeftSide img {
     margin-top: 50px;
