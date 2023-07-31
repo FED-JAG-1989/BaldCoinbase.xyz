@@ -2029,7 +2029,7 @@
     text-transform: uppercase;
     text-shadow: none;
     font-family: Changa One, Impact, sans-serif;
-    font-size: 8rem;
+    font-size: 6rem;
   }
   
   .image-11 {
@@ -2058,7 +2058,11 @@
   .text-span {
     font-size: 1rem;
   }
-  
+  .officialCA {
+    color: #fff;
+    margin: 10px 0;
+    font-weight:400;
+  }
   .heading-5 {
     color: #de2323;
     -webkit-text-stroke-width: 1px;
@@ -2066,7 +2070,7 @@
     text-transform: uppercase;
     text-shadow: none;
     font-family: Blood, sans-serif;
-    font-size: 2rem;
+    font-size: 1.7rem;
   }
   
   .link-block-2 {
